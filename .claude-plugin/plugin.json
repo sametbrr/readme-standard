@@ -1,0 +1,8 @@
+{
+  "name": "readme-standard",
+  "description": "Enforces a consistent README.md + README.tr.md structure: create, audit, fix and TR-sync modes",
+  "author": { "name": "sametbrr", "email": "sametbrr@gmail.com" },
+  "repository": "https://github.com/sametbrr/readme-standard",
+  "license": "MIT",
+  "keywords": ["readme", "documentation", "standard", "i18n"]
+}
